@@ -1,0 +1,61 @@
+.magic-ball img {
+  width: 100rem;
+  
+}
+
+.magic-ball {
+  width: 500px;
+  position: relative;
+  text-align: center;
+  color: white;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 2rem;
+  width: 650px;
+}
+.answerBoxCustom p {
+  border: 1px solid white;
+  background-color: white;
+  text-align: center;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+/* Add some content at the bottom of the video/page */
+.content {
+  position: fixed;
+  /* background: rgba(0, 0, 0, 0.5); */
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
+
+button{
+  background-color:  #957dec!important;
+  color: white !important;
+}
+.color-new-q button{
+  background-color: #957dec!important;
+  color: white !important;
+}
+
